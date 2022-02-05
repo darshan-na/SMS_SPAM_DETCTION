@@ -22,3 +22,7 @@ Using Naive Bayes library provided by sklearn library save us a lot of hassle in
 
 # Confusion Matrix :
 ![](confusion_matrix.png)
+
+# Cross Validation Score
+Accuracy = 89.72%
+Standard Deviation = 2.70%
